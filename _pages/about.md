@@ -9,8 +9,7 @@ redirect_from:
 
   I am an Associate Professor in the Department of Political Science at the University of
   California, Riverside. My research examines how institutions and information interact to
-  affect political behavior, with a focus on experimental methods for identifying causal
-  mechanisms.
+  affect political behavior.
 
   My current work analyzes police-civilian interactions using body-worn camera footage from
   the Los Angeles Police Department. As part of the [Everyday
