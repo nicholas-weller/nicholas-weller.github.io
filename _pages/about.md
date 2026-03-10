@@ -1,11 +1,11 @@
 ---
- permalink: /                                                                    
- title: "About"                                                                   
- author_profile: true
- redirect_from:
-    - /about/
-    - /about.html
-  ---
+permalink: /                                                                    
+title: "About"                                                                   
+author_profile: true
+redirect_from:
+  - /about
+  - /about.html
+---
 
   I am an Associate Professor in the Department of Political Science at the University of
   California, Riverside. My research examines how institutions and information interact to
