@@ -7,26 +7,12 @@ author_profile: true
   You can also find my articles on [my Google Scholar                                        
   profile](https://scholar.google.com/citations?user=bBOCblIAAAAJ&hl=en).                    
                                                                                              
-  ### Book                                                                                 
+  Book                                                                                 
 
   - Weller, Nicholas and Jeb Barnes. 2014. *Finding Pathways: Mixed-Method Research for
   Studying Causal Mechanisms*. Cambridge University Press.
 
-  ### Working Papers
-
-  - "Political Control and Policing: When Do Police Comply with Police Reform?" (R&R at
-  *American Journal of Political Science*) with Harry Muttram, Jose Alcocer, Lauren Brown,
-  Benjamin A.T. Graham, and Micheal Sierra-Arevalo.
-
-  - "Community-Informed AI Models for Police Accountability" (under review at *Nature:
-  Humanities and Social Sciences Communications*) with the Everyday Respect Team.
-
-  - "Police as Policymakers: How experiences with policy implementation shape policy
-  representation" (under review at *Perspectives on Politics*) with Michael Sierra-Arévalo,
-  José Alcocer, Lauren Brown, Raquel Delerme, Brittany Friedman, Benjamin A.T. Graham, Harry
-  G. Muttram, and Jackson Trager.
-
-  ### Peer-Reviewed Journal Articles
+  Peer-Reviewed Journal Articles
 
   - Lauterbach, Erinn, Thomas Hayes, Nicholas Weller and Benjamin Bishin. 2026.
   "Working-Class Legislators, Bill Writing, and Introduction: Limited Evidence of Substantive
@@ -96,7 +82,7 @@ author_profile: true
   Coordination: Network Structure and Group Coordination." *American Politics Research*. Vol.
    37, No. 5, pp. 899-920.
 
-  ### Peer-Reviewed Conference Proceedings
+  Peer-Reviewed Conference Proceedings
 
   - Posada, Julian, Nicholas Weller, and Wendy Wong. 2021. "We Haven't Gone Paperless Yet:
   Why the Printing Press Can Help Us Understand Data and AI." *Proceedings of the Conference
@@ -131,7 +117,7 @@ author_profile: true
   more connectivity help groups to solve social problems?" *Proceedings of the ACM Conference
    of Electronic Commerce 2011*. San Jose, CA.
 
-  ### Book Chapters
+  Book Chapters
 
   - Barnes, Jeb and Nicholas Weller. 2023. "Mixed Methods and Casual Mechanisms: Re-Examining
    a Divided Literature from the Perspective of Methodological Pluralism." In *The Oxford
@@ -142,8 +128,22 @@ author_profile: true
    Guide." *Handbook of Research Methods in International Relations*. eds. R. Joseph
   Huddleston, Patrick James, and Thomas Jamieson. Edward Elgar Publishing.
 
-  ### Other Publications
+  Other Publications
 
   - Rodriguez, Daniel, Mathew D. McCubbins and Nicholas Weller. 2013. "Cheap, Easy or
   Connected: The Conditions for Creating Group Coordination." *Southern California Law
   Review*. Volume 86, Issue 3.
+
+  Working Papers
+
+  - "Political Control and Policing: When Do Police Comply with Police Reform?" (R&R at
+  *American Journal of Political Science*) with Harry Muttram, Jose Alcocer, Lauren Brown,
+  Benjamin A.T. Graham, and Micheal Sierra-Arevalo.
+
+  - "Community-Informed AI Models for Police Accountability" (under review at *Nature:
+  Humanities and Social Sciences Communications*) with the Everyday Respect Team.
+
+  - "Police as Policymakers: How experiences with policy implementation shape policy
+  representation" (under review at *Perspectives on Politics*) with Michael Sierra-Arévalo,
+  José Alcocer, Lauren Brown, Raquel Delerme, Brittany Friedman, Benjamin A.T. Graham, Harry
+  G. Muttram, and Jackson Trager.
