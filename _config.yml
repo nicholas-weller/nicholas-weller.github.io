@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Nicholas Weller"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Political Science, University of California, Riverside"
