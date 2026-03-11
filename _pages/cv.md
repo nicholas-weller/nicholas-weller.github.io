@@ -1,7 +1,7 @@
  ---
-  layout: archive
-  title: "CV"
-  permalink: /cv/
+ layout: archive
+ title: "CV"
+ permalink: /cv/
   ---
 
   <iframe src="/Weller_CV_March_2026.pdf" width="100%" height="800px">
