@@ -1,5 +1,5 @@
 ---                                                                                        
-layout: single
+layout: page
 title: "Publications"                                                                      
 permalink: /publications/                                                                
 author_profile: true
@@ -7,7 +7,7 @@ author_profile: true
   You can also find my articles on [my Google Scholar                                        
   profile](https://scholar.google.com/citations?user=bBOCblIAAAAJ&hl=en).                    
                                                                                              
-  Book                                                                                 
+  ### Book                                                                                 
 
   - Weller, Nicholas and Jeb Barnes. 2014. *Finding Pathways: Mixed-Method Research for
   Studying Causal Mechanisms*. Cambridge University Press.
