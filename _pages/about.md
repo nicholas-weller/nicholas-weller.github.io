@@ -11,7 +11,7 @@ redirect_from:
   California, Riverside. My research examines how institutions and information interact to
   affect political behavior.
  
-  As part of the [Everyday Respect](https://dornsife.usc.edu/everydayrespect/) project, my research studies police-civilian 
+  As a Principal Investigator with the [Everyday Respect](https://dornsife.usc.edu/everydayrespect/) project, my research studies police-civilian 
   interactions using body-worn camera footage from the Los Angeles Police Department. Our team studies both the human annotations 
   from bodyworn camera recordings and develops machine learning models to analyze multimodal communication during traffic stops, 
   with a focus on procedural justice, racial disparities, and the political consequences of routine police contact.
