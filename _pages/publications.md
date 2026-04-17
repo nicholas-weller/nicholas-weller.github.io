@@ -6,12 +6,12 @@ author_profile: true
 ---                                                                                                                                           
   You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=bBOCblIAAAAJ&hl=en).
                                                                                                                                                 
-  ## Book                                                                                                                                     
+   **Book**                                                                                                                                      
                                                                                                                                                 
   - Weller, Nicholas and Jeb Barnes. 2014. *Finding Pathways: Mixed-Method Research for Studying Causal Mechanisms*. Cambridge University Press.
    [[DOI]](https://doi.org/10.1017/cbo9781139644501)
                                                                                                                                                 
-  ## Peer-Reviewed Journal Articles                                                                                                           
+  **Peer-Reviewed Journal Articles**                                                                                                          
 
   - Lauterbach, Erinn, Thomas Hayes, Nicholas Weller and Benjamin Bishin. 2026. "Working-Class Legislators, Bill Writing, and Introduction:     Limited Evidence of Substantive Representation in Congress." *Political Research Quarterly*.
   [[DOI]](https://doi.org/10.1177/10659129261434933)                                                                                            
@@ -54,7 +54,7 @@ author_profile: true
                                                                                                                                                 
   - McCubbins, Mathew D., Ramamohan Paturi and Nicholas Weller. 2009. "Connected Coordination: Network Structure and Group Coordination."        *American Politics Research*. Vol. 37, No. 5, pp. 899-920. [[DOI]](https://doi.org/10.1177/1532673x09337184)
                                                                                                                                                 
-  ## Peer-Reviewed Conference Proceedings                                                                                                       
+  **Peer-Reviewed Conference Proceedings**                                                                                                     
    
   - Posada, Julian, Nicholas Weller, and Wendy Wong. 2021. "We Haven't Gone Paperless Yet: Why the Printing Press Can Help Us Understand Data   and AI." *Proceedings of the Conference on Artificial Intelligence, Ethics, and Society*.                                                   
                                                                                                                                                 
@@ -72,7 +72,7 @@ author_profile: true
                                                                                                                                                 
   - Enemark, Daniel, Mathew D. McCubbins, Ramamohan Paturi, and Nicholas Weller. 2011. "Does more connectivity help groups to solve social       problems?" *Proceedings of the ACM Conference of Electronic Commerce 2011*. San Jose, CA.
                                                                                                                                                 
-  ## Book Chapters                                                                                                                            
+  **Book Chapters**                                                                                                                            
 
   - Barnes, Jeb and Nicholas Weller. 2023. "Mixed Methods and Causal Mechanisms: Re-Examining a Divided Literature from the Perspective of  Methodological Pluralism." In *The Oxford Handbook of Engaged Pluralism in Political Science*. eds. Janet Box-Steffensmeister, Dino
   Christensen, and Valeria Sinclair-Chapman. [[DOI]](https://doi.org/10.1093/oxfordhb/9780192868282.013.26)                                     
