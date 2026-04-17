@@ -80,6 +80,6 @@ author_profile: true
   - Barnes, Jeb and Nicholas Weller. 2022. "Causal Pathway Analysis and Matching: A Practical Guide." *Handbook of Research Methods in        International Relations*. eds. R. Joseph Huddleston, Patrick James, and Thomas Jamieson. Edward Elgar Publishing.
   [[DOI]](https://doi.org/10.4337/9781839101014.00027)                                                                                          
                                                                                                                                               
-  ##Other Publications##
+**Other Publications**
 
   - Rodriguez, Daniel, Mathew D. McCubbins and Nicholas Weller. 2013. "Cheap, Easy or Connected: The Conditions for Creating Group              Coordination." *Southern California Law Review*. Volume 86, Issue 3.
