@@ -13,7 +13,7 @@ author_profile: true
                                                                                                                                                 
   **Peer-Reviewed Journal Articles**
 
-  - Michael, Sierra-Arevalo, Alcocer, Jose, Brown, Lauren, Delerme, Raquel, Friedman, Brittany, Graham, Benjamin. A. T., Muttram, Harry G., Trager, Jackson, & Weller, Nicholas. 2026. "Police as Policymakers: How Experiences With Policy Implementation Shape Policy Representation." *Political Research Quarterly.*  [[DOI]](https://doi.org/10.1177/10659129261466246)
+  - Sierra-Arevalo, Micheal, Jose Alcocer, Lauren Brown, Raquel Delerme, Brittany Friedman, Benjamin A.T. Graham, Harry G. Muttram, Jackson Trager, & Nicholas Weller. 2026. "Police as Policymakers: How Experiences With Policy Implementation Shape Policy Representation." *Political Research Quarterly.*  [[DOI]](https://doi.org/10.1177/10659129261466246)
 
   - Tyner, A.H., Abatayo, A.L., Daley, M. et al. "Investigating the replicability of the social and behavioural sciences." 2026. *Nature* 652, 143–150. https://doi.org/10.1038/s41586-025-10078-y
 
