@@ -17,9 +17,6 @@ author_profile: true
 
   - Tyner, A.H., Abatayo, A.L., Daley, M. et al. "Investigating the replicability of the social and behavioural sciences." 2026. *Nature* 652, 143–150. https://doi.org/10.1038/s41586-025-10078-y
 
-    - Lauterbach, Erinn, Thomas Hayes, Nicholas Weller and Benjamin Bishin. 2026. "Working-Class Legislators, Bill Writing, and Introduction:     Limited Evidence of Substantive Representation in Congress." *Political Research Quarterly*.
-  [[DOI]](https://doi.org/10.1177/10659129261434933) 
-
   - Lauterbach, Erinn, Thomas Hayes, Nicholas Weller and Benjamin Bishin. 2026. "Working-Class Legislators, Bill Writing, and Introduction:     Limited Evidence of Substantive Representation in Congress." *Political Research Quarterly*.
   [[DOI]](https://doi.org/10.1177/10659129261434933)                                                                                            
                                                                                                                                               
