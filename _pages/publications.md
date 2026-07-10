@@ -58,11 +58,13 @@ author_profile: true
                                                                                                                                                 
   - McCubbins, Mathew D., Ramamohan Paturi and Nicholas Weller. 2009. "Connected Coordination: Network Structure and Group Coordination."        *American Politics Research*. Vol. 37, No. 5, pp. 899-920. [[DOI]](https://doi.org/10.1177/1532673x09337184)
                                                                                                                                                 
-  **Peer-Reviewed Conference Proceedings**                                                                                                     
+  **Peer-Reviewed Conference Proceedings**  
+
+  - Golazizian, P., Rahmati, E., Trager, J., Sourati, Z., Ghazizadeh, N., Chochlakis, G., Alcocer, J., Bennett, K., Devnani, A. V., Hejabi, P., Muttram, H. G., Padte, A. K., Saadatinia, M., Wu, C., Ziabari, A. S., Sierra-Arévalo, M., Weller, N., Narayanan, S., Graham, B. A. T., & Dehghani, M. (2026). The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2602.10339
    
   - Posada, Julian, Nicholas Weller, and Wendy Wong. 2021. "We Haven't Gone Paperless Yet: Why the Printing Press Can Help Us Understand Data   and AI." *Proceedings of the Conference on Artificial Intelligence, Ethics, and Society*.                                                   
                                                                                                                                                 
-  - McCubbins, Mathew D., Mark Turner and Nicholas Weller. 2013. "Testing the Foundations of Quantal Response Equilibrium." *Proceedings of the International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction*. Springer Lecture Notes in Computer Science, pp. 144-153.                                                                                                                                      
+  - McCubbins, Mathew D., Mark Turner and Nicholas Weller. 2013. "Testing the Foundations of Quantal Response Equilibrium." *Proceedings of the International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction*. Springer Lecture Notes in Computer Science, pp. 144-153.                                                                                                                                     
                                                                                                                                               
   - Tsai, Jason, Nicholas Weller, and Milind Tambe. 2012. "Analysis of Heuristic Techniques for Controlling Contagion." *Association for        Advancement of Artificial Intelligence Fall Symposium on Social Networks and Social Contagion*, pp. 69-75.
                                                                                                                                                 
