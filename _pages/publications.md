@@ -11,7 +11,14 @@ author_profile: true
   - Weller, Nicholas and Jeb Barnes. 2014. *Finding Pathways: Mixed-Method Research for Studying Causal Mechanisms*. Cambridge University Press.
    [[DOI]](https://doi.org/10.1017/cbo9781139644501)
                                                                                                                                                 
-  **Peer-Reviewed Journal Articles**                                                                                                          
+  **Peer-Reviewed Journal Articles**
+
+  - Michael, Sierra-Arevalo, Alcocer, Jose, Brown, Lauren, Delerme, Raquel, Friedman, Brittany, Graham, Benjamin. A. T., Muttram, Harry G., Trager, Jackson, & Weller, Nicholas. 2026. "Police as Policymakers: How Experiences With Policy Implementation Shape Policy Representation." *Political Research Quarterly.*  [[DOI]](https://doi.org/10.1177/10659129261466246)
+
+  - Tyner, A.H., Abatayo, A.L., Daley, M. et al. "Investigating the replicability of the social and behavioural sciences." 2026. *Nature* 652, 143–150. https://doi.org/10.1038/s41586-025-10078-y
+
+    - Lauterbach, Erinn, Thomas Hayes, Nicholas Weller and Benjamin Bishin. 2026. "Working-Class Legislators, Bill Writing, and Introduction:     Limited Evidence of Substantive Representation in Congress." *Political Research Quarterly*.
+  [[DOI]](https://doi.org/10.1177/10659129261434933) 
 
   - Lauterbach, Erinn, Thomas Hayes, Nicholas Weller and Benjamin Bishin. 2026. "Working-Class Legislators, Bill Writing, and Introduction:     Limited Evidence of Substantive Representation in Congress." *Political Research Quarterly*.
   [[DOI]](https://doi.org/10.1177/10659129261434933)                                                                                            
